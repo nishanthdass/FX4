@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Builds",
+    "\\Builds\\VisualStudio2022",
+    "\\Builds\\VisualStudio2022\\x64",
+    "\\Builds\\VisualStudio2022\\x64\\Debug",
+    "\\Builds\\VisualStudio2022\\x64\\Debug\\VST3",
+    "\\Builds\\VisualStudio2022\\x64\\Debug\\VST3 Manifest Helper",
+    "\\Builds\\VisualStudio2022\\x64\\Debug\\VST3 Manifest Helper\\FX4_VST3.CA24E186.tlog",
+    "\\Builds\\VisualStudio2022\\x64\\Debug\\VST3\\FX4.vst3",
+    "\\Builds\\VisualStudio2022\\x64\\Debug\\VST3\\FX4.vst3\\Contents",
+    "\\Builds\\VisualStudio2022\\x64\\Debug\\VST3\\FX4.vst3\\Contents\\x86_64-win",
+    "\\Builds\\VisualStudio2022\\x64\\Debug\\VST3\\FX4_VST3.tlog"
+  ],
+  "PreviewInSolutionExplorer": false
+}
